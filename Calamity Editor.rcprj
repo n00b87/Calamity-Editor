@@ -1,0 +1,12 @@
+RCBASIC_STUDIO:1.0
+PROJECT_NAME:Calamity Editor
+PROJECT_MAIN:main.bas
+AUTHOR:
+WEBSITE:
+DESCRIPTION:
+SOURCE_REL:main.bas
+SOURCE_REL:stage_tools.bas
+SOURCE_REL:stage_viewport.bas
+SOURCE_REL:stage_objects.bas
+SOURCE_REL:UI_StageTab.bas
+SOURCE_REL:UI_MeshTab.bas
